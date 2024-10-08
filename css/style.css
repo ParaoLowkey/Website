@@ -3,7 +3,7 @@ body {
   text-align: center;
 }
 
-.container {
+.logo {
   margin-top: 50px;
 }
 
@@ -34,8 +34,13 @@ p {
   margin: 20px 0;
 }
 
-.btn-container {
+.button 
+  {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
+
 
 .btn {
   padding: 10px 20px;
