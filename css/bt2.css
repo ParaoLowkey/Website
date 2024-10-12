@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: green;
+}
+a {
+    color: blue;
+    text-decoration: underline;
+}
+h1 {
+    background-color: pink;
+    color: red;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.poem {
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+    font-style: italic;
+}
+.poem p {
+    margin: 5px;
+}
+
+.dong2 {
+    font-weight: bold;
+}
+
+.xanhdam {
+    color: blue;
+}
+
+.do {
+    color: red;
+}
+
+.green {
+    color: green;
+}
