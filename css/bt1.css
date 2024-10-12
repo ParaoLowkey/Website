@@ -1,0 +1,62 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+    font-size: 32px;
+    border: 3px solid orange;
+    padding: 10px;
+    font-weight: bold;
+}
+
+p.first-paragraph {
+    text-indent: 50px;
+    font-size: 18px;
+}
+
+p.second-paragraph {
+    text-indent: 50px;
+    font-size: 18px;
+    margin-top: 20px;
+    text-align: right;
+}
+
+.large-letter {
+    color: red;
+    font-size: 32px;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 1;
+}
+
+.highlight {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.highlight1 {
+    color: red;
+}
+
+.highlight2 {
+    background-color: yellow;
+}
+
+.orange-bar {
+    background-color: orange;
+    padding: 10px;
+    font-weight: bold;
+    text-align: right;
+    margin-top: 20px;
+}
+
+.footer-text {
+    text-align: right;
+    color: orange;
+    font-weight: bold;
+    margin-top: 40px;
+}
