@@ -1,0 +1,38 @@
+.anh {
+    height: 100px;
+    width: 100px;
+    align-items: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.email {
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+}
+.khung {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    width: 500px;   
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+.submit {
+    font-size: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgb(27, 222, 202);
+    color: white;
+}
